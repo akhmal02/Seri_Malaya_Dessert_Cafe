@@ -1,0 +1,30 @@
+MUHAMMAD SYAFIQ,D001,Cheesecake,C,2,45.90,false
+MUHAMMAD AKHMAL,D202,Seri Muka,T,1,25.00,true
+NIK YUSUF,D304,Brownies,O,3,5.00,false
+RIZALIFF NABIL,D101,Cream Cheese,P,1,8.00,false
+MAISARAH ADLINA,D102,Patato Cinamon Roll,P,4,6.60,false
+RAZIFF HILMI,D107,Donuts,P,5,2.40,false
+CHE PUAN HALIMAH,D007,Batik Cake,C,2,7.50,true
+LEE KOK HWI,D007,Batik Cake,C,1,7.50,true
+PRIVASANTHI,D303,Banana Pudding,O,1,5.00,false
+AISYAH HIJANAH,D207,Kuih Lapis Pelangi,T,2,20.20,true
+NURIN IRDINA,D006,Vanilla Pound Cake,C,1,12.20,true
+LEE MOI YEEN,D204,Lompat Tikam,T,2,26.40,true
+KEESHANTDRANT,D005,Red Velvet Cupcakes,C,3,12.90,false
+PRAVA SANTHI,D106,Cheese Tart,P,6,2.70,false
+RAJUN RADIN,D307,Chocolate Mousse,O,4,4.60,false
+ABDUL MUKHRIZ,D007,Batik Cake,T,3,7.50,true
+SITI MAZNAH,D206,Tepung Pelita,T,2,30.40,true
+FATIMAH NURZAHIRAH,D101,Cream Cheese,P,5,8.00,false
+LEE CHING WEEN,D306,Rice Krispie Treats,O,10,2.00,false
+KOK SHI HWANG,D003,Chocolate Indulgence,C,1,87.40,false
+FATIMAH AZ-ZAHRA,D201,Kuih Bakar,T,2,20.00,true
+PRAMASH RAJAN,D202,Seri Muka,T,3,25.00,true
+ALIFF MARZUKI,D203,Putu Kacang,T,4,17.40,true
+PUTERI DAYANGKU CAHAYA,D301,Jelly Pearl Pudding,O,2,4.50,false
+AISYAH MUNIWAH,D302,Ice Cream Cup,O,1,7.9,false
+ADNAN MARZUKI,D303,Banana Pudding,O,5,5.00,false
+AKID HAFIZ,D306,Rice Krispie Treats,O,3,3.00,false
+AHMAD AMADI,D307,Chocolate Mousse,O,2,4.60,false
+ANIQ AMRIN,D204,Lompat Tikam,T,1,26.40,true
+MUQRI MUSLIHUDDIN,D205,Kuih Cara,T,3,14.00,true

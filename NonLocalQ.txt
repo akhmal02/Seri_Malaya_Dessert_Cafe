@@ -1,0 +1,140 @@
+
++---------------------------------------------------+
+|     Details of Purchase Non Local Dessert (Q)     | 
++---------------------------------------------------+
+ Customer Name: NIK YUSUF
+ Dessert ID: D304
+ DessertName: Brownies
+ Dessert Type: Others
+ Quantity: 3
+ Price: RM 5.0
+ Locality: false
+---------------------------------------------------------
+ Customer Name: RIZALIFF NABIL
+ Dessert ID: D101
+ DessertName: Cream Cheese
+ Dessert Type: Pastry
+ Quantity: 1
+ Price: RM 8.0
+ Locality: false
+---------------------------------------------------------
+ Customer Name: MAISARAH ADLINA
+ Dessert ID: D102
+ DessertName: Patato Cinamon Roll
+ Dessert Type: Pastry
+ Quantity: 4
+ Price: RM 6.6
+ Locality: false
+---------------------------------------------------------
+ Customer Name: RAZIFF HILMI
+ Dessert ID: D107
+ DessertName: Donuts
+ Dessert Type: Pastry
+ Quantity: 5
+ Price: RM 2.4
+ Locality: false
+---------------------------------------------------------
+ Customer Name: PRIVASANTHI
+ Dessert ID: D303
+ DessertName: Banana Pudding
+ Dessert Type: Others
+ Quantity: 1
+ Price: RM 5.0
+ Locality: false
+---------------------------------------------------------
+ Customer Name: KEESHANTDRANT
+ Dessert ID: D005
+ DessertName: Red Velvet Cupcakes
+ Dessert Type: Cake
+ Quantity: 3
+ Price: RM 12.9
+ Locality: false
+---------------------------------------------------------
+ Customer Name: PRAVA SANTHI
+ Dessert ID: D106
+ DessertName: Cheese Tart
+ Dessert Type: Pastry
+ Quantity: 6
+ Price: RM 2.7
+ Locality: false
+---------------------------------------------------------
+ Customer Name: RAJUN RADIN
+ Dessert ID: D307
+ DessertName: Chocolate Mousse
+ Dessert Type: Others
+ Quantity: 4
+ Price: RM 4.6
+ Locality: false
+---------------------------------------------------------
+ Customer Name: FATIMAH NURZAHIRAH
+ Dessert ID: D101
+ DessertName: Cream Cheese
+ Dessert Type: Pastry
+ Quantity: 5
+ Price: RM 8.0
+ Locality: false
+---------------------------------------------------------
+ Customer Name: LEE CHING WEEN
+ Dessert ID: D306
+ DessertName: Rice Krispie Treats
+ Dessert Type: Others
+ Quantity: 10
+ Price: RM 2.0
+ Locality: false
+---------------------------------------------------------
+ Customer Name: KOK SHI HWANG
+ Dessert ID: D003
+ DessertName: Chocolate Indulgence
+ Dessert Type: Cake
+ Quantity: 1
+ Price: RM 87.4
+ Locality: false
+---------------------------------------------------------
+ Customer Name: PUTERI DAYANGKU CAHAYA
+ Dessert ID: D301
+ DessertName: Jelly Pearl Pudding
+ Dessert Type: Others
+ Quantity: 2
+ Price: RM 4.5
+ Locality: false
+---------------------------------------------------------
+ Customer Name: AISYAH MUNIWAH
+ Dessert ID: D302
+ DessertName: Ice Cream Cup
+ Dessert Type: Others
+ Quantity: 1
+ Price: RM 7.9
+ Locality: false
+---------------------------------------------------------
+ Customer Name: ADNAN MARZUKI
+ Dessert ID: D303
+ DessertName: Banana Pudding
+ Dessert Type: Others
+ Quantity: 5
+ Price: RM 5.0
+ Locality: false
+---------------------------------------------------------
+ Customer Name: AKID HAFIZ
+ Dessert ID: D306
+ DessertName: Rice Krispie Treats
+ Dessert Type: Others
+ Quantity: 3
+ Price: RM 3.0
+ Locality: false
+---------------------------------------------------------
+ Customer Name: AHMAD AMADI
+ Dessert ID: D307
+ DessertName: Chocolate Mousse
+ Dessert Type: Others
+ Quantity: 2
+ Price: RM 4.6
+ Locality: false
+---------------------------------------------------------
+ Customer Name: ROGAYAH
+ Dessert ID: D107
+ DessertName: DONUTS
+ Dessert Type: Pastry
+ Quantity: 7
+ Price: RM 2.4
+ Locality: false
+---------------------------------------------------------

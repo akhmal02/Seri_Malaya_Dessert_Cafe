@@ -1,0 +1,108 @@
+
++--------------------------------------------------+
+|      Details of Purchase Local Dessert (LL)      | 
++--------------------------------------------------+
+ Customer Name: ANIQ AMRIN
+ Dessert ID: D204
+ DessertName: Lompat Tikam
+ Dessert Type: Tradisional
+ Quantity: 1
+ Price: RM 26.4
+ Locality: true
++-------------------------------------------------------+
+ Customer Name: ALIFF MARZUKI
+ Dessert ID: D203
+ DessertName: Putu Kacang
+ Dessert Type: Tradisional
+ Quantity: 4
+ Price: RM 17.4
+ Locality: true
++-------------------------------------------------------+
+ Customer Name: PRAMASH RAJAN
+ Dessert ID: D202
+ DessertName: Seri Muka
+ Dessert Type: Tradisional
+ Quantity: 3
+ Price: RM 25.0
+ Locality: true
++-------------------------------------------------------+
+ Customer Name: FATIMAH AZ-ZAHRA
+ Dessert ID: D201
+ DessertName: Kuih Bakar
+ Dessert Type: Tradisional
+ Quantity: 2
+ Price: RM 20.0
+ Locality: true
++-------------------------------------------------------+
+ Customer Name: SITI MAZNAH
+ Dessert ID: D206
+ DessertName: Tepung Pelita
+ Dessert Type: Tradisional
+ Quantity: 2
+ Price: RM 30.4
+ Locality: true
++-------------------------------------------------------+
+ Customer Name: ABDUL MUKHRIZ
+ Dessert ID: D007
+ DessertName: Batik Cake
+ Dessert Type: Tradisional
+ Quantity: 3
+ Price: RM 12.0
+ Locality: true
++-------------------------------------------------------+
+ Customer Name: LEE MOI YEEN
+ Dessert ID: D204
+ DessertName: Lompat Tikam
+ Dessert Type: Tradisional
+ Quantity: 2
+ Price: RM 26.4
+ Locality: true
++-------------------------------------------------------+
+ Customer Name: NURIN IRDINA
+ Dessert ID: D006
+ DessertName: Vanilla Pound Cake
+ Dessert Type: Cake
+ Quantity: 1
+ Price: RM 12.2
+ Locality: true
++-------------------------------------------------------+
+ Customer Name: AISYAH HIJANAH
+ Dessert ID: D207
+ DessertName: Kuih Lapis Pelangi
+ Dessert Type: Tradisional
+ Quantity: 2
+ Price: RM 20.2
+ Locality: true
++-------------------------------------------------------+
+ Customer Name: LEE KOK HWI
+ Dessert ID: D007
+ DessertName: Batik Cake
+ Dessert Type: Cake
+ Quantity: 1
+ Price: RM 12.0
+ Locality: true
++-------------------------------------------------------+
+ Customer Name: CHE PUAN HALIMAH
+ Dessert ID: D007
+ DessertName: Batik Cake
+ Dessert Type: Cake
+ Quantity: 2
+ Price: RM 12.0
+ Locality: true
++-------------------------------------------------------+
+ Customer Name: MUHAMMAD AKHMAL
+ Dessert ID: D202
+ DessertName: Seri Muka
+ Dessert Type: Tradisional
+ Quantity: 1
+ Price: RM 25.0
+ Locality: true
++-------------------------------------------------------+
+ Customer Name: ALI
+ Dessert ID: d205
+ DessertName: Kuih Cara
+ Dessert Type: Tradisional
+ Quantity: 1
+ Price: RM 14.0
+ Locality: true
++-------------------------------------------------------+
